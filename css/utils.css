@@ -147,7 +147,7 @@ button:focus {
  }
 
  .btn:hover {
-  transform: scale(1.2)
+  background-color: var(--first-brand-color);
  }
  .title {
   font-size: 12rem;
